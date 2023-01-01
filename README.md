@@ -1,9 +1,5 @@
 # Hi there👋! I'm Youtuber [MsCube Tech](https://www.youtube.com/@mscubetech) 🙋‍♂️
 
-[Profile views](https://mscubetechs.blogspot.com/)
-
-
-_**LATEST UPDATE:**_ _Exploring Google Analytics Academy_ 🥽.
 
 ### 🎍 Welcome to my hub 👨‍💻
 - 👦 I’m currently working on Full Stack Web Developer
