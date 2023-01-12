@@ -1,7 +1,7 @@
 # Hi there👋! I'm Youtuber [MsCube Tech](https://www.youtube.com/@mscubetech) 🙋‍♂️
 
 
-### 🎍 Welcome to my hub 👨‍💻
+### 🎍 Welcome to my Channel 👨‍💻
 - 👦 I’m currently working on Full Stack Web Developer
 - 💼 I’m currently learning Android Developer
 - 👨‍💻 I’m looking to collaborate in Codechef,hackerearth etc.
@@ -10,7 +10,7 @@
 - ✍️ Write blogs on [MsCube Tech](https://mscubetechs.blogspot.com/).
 - Loves 🎵 and 🎹.
 - Fun and Enjoy With My Friends
-- Proud 🇮🇳.
+- Proud Pakistan.
 
 
 ### 📊 Github Stats
